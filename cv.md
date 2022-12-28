@@ -29,5 +29,6 @@ return !arr.some(fun);
      * HTML Academy
      * https://learn.javascript.ru/
 
+
 ## English
 B2 
