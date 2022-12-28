@@ -19,7 +19,7 @@ return !arr.some(fun);
 ## Experience
 ## Education
 * University: Belarusian State University of Informatics and Radioelectronics
-    * Courses: 
+* Courses: 
         * Udemy: JavaScript Full Course
         * International House World Organisation: English C1
         * HTML Academy
